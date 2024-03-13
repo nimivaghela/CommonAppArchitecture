@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CommonStructure</string>
+
+    <!--    Network Errors-->
+    <string name="text_error_network">No Internet connection!!!</string>
+    <string name="text_error_internal_server">Internal server error. Please retry!!!</string>
+    <string name="text_error_timeout">Sorry, We lost you. Please retry!!!</string>
+    <string name="text_error_connection">Look a like we lost you for a moment. Please retry!!!</string>
+    <string name="text_server_connection">There is an issue while connecting to server</string>
+</resources>
